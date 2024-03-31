@@ -34,6 +34,7 @@
   },
   "name":"Wow i love french",
   "resources":[
+    {"id":{"name":"ForObject","path":"objects/ForObject/ForObject.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
